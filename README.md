@@ -1,71 +1,47 @@
-## ABOUT ME
+<h1>ShuvO-BoT🤖<sub><sub>v1.5.1🚀</sub><sub><sub><h6>- By Yan Maglinte</h6></sub></sub></sub>
+Introduction</h1>
 
-name : ```Shuvo Developer```</br>
-age : ```18+```</br>
-link : [facebook](https://www.facebook.com/profile.php?id=100088042167816).</br>
+- Welcome to the [BotPack](https://replit.com/@YanMaglinte/BotPack)🌀 repository. This project is an unofficial bot file from the [Mirai](https://github.com/m1raibot/miraiv2) Repository, initially developed and maintained by [Phạm Văn Diện](https://github.com/D-Jukie/Disme-Bot.git), better known as [D-Jukie](https://github.com/D-Jukie). The base file for this project is sourced from the [Disme-Bot](https://github.com/D-Jukie/Disme-Bot.git) GitHub project.
 
-## CREDITS
+- [BotPack](https://replit.com/@YanMaglinte/BotPack)🌀 is a modified messenger bot file by [Yan Maglinte](https://replit.com/@YanMaglinte)🇵🇭. It is a refined version of the Mirai messenger bot, with some unique enhancements. 
 
-original file : [BotPack](https://replit.com/@YanMaglinte/BotPack?v=1) by ```YanMaglinte```</br>
-modified : [Shuvo](https://www.facebook.com/profile.php?id=100088042167816) by ```Shuvo Developer```
+- A key feature is the `usePrefix` function integrated within every command. This function removes the need for prefixes, providing a more streamlined user experience. Alongside ready-made commands and free-to-edit codes, this bot file encourages users to learn and explore freely.
+<img align="center" src="https://i.imgur.com/Je8NbDn.jpg"/>
 
-## CONFIG AND CUSTOM
+- Further, [BotPack](https://replit.com/@YanMaglinte/BotPack)🌀 comes with a user-friendly feature that allows easy customization of your console design via the `theme` option in the config.json file. This makes it highly accessible, especially for beginners.
+<img align="center" src="https://i.imgur.com/wHD2zXv.jpg"/>
 
-Shuvo.js : ``configure auto restart and auto accept pending messages.``</br>
-Shuvo.json : ``configure bot name, bot prefix, bot operators and admins, appstate save``</br>
-Shuvo.json : ``account cache data.``</br>Shuvo/configs/Shuvo.json : ``Set Your Bot Id Email Password``
+- Embrace the world of possibilities with [BotPack](https://replit.com/@YanMaglinte/BotPack)🌀 - a facebook Messenger file designed to make your interaction with messenger bots smoother and more efficient.
 
-## BOX APPROVAL
+<div align="center">
+      <h3>My Replit Account ->
+      <a href="https://replit.com/@YanMaglinte" style="color: green;">@YShuvO-BoT🔥</a>
+        <br>
+  My Facebook Account ->
+  <a href="https://www.facebook.com/yandeva.me?mibextid=b06tZ0" style="color: green;">Yan🚀</a></h3></div>
 
-``box approval`` is set as default, you can disable it on ``Nayan.json`` by setting the ``approval`` value into ``false``</br>
+- If you encounter any issues or have questions related to this REPL, please don't hesitate to reach out to me on Facebook. I'm here to assist you!
 
-you can approve box by using ``approve`` command without using prefix, how to use? just type ``approve (box/remove) (uid/tid)``</br>
+<img align="center" src="https://i.imgur.com/NZoCvjL.jpeg"/>
 
-EXAMPLES : </br>
+## **How to Start Using BotPack?**
+1. Begin by navigating to [Replit](https://replit.com).
+2. Log in to your existing account or sign up for a new one.
+3. Utilize the search bar to find [BotPack](https://replit.com/@YanMaglinte/BotPack).
+4. Click on `templates`.
+5. Upon searching, select the most popular BotPack template from the results.
+6. Afterwards, click `Use Template`.
+7. After forking the template, initiate it by clicking on ***'Run'***.
+8. Be patient and wait until something appears that ask you to log in using your `Facebook Bot Account`.
+9. After logging in, you can now enjoy and have fun! 😊
 
-view approved list 
-```txt 
-approve list
-```
-add box from approved list 
-```txt
-approve box 4834812366643016
-```
-remove box from approved list 
-```txt
-approve remove 4834812366643016
-```
+> *Note: There is a risk of your account being banned after a certain period, so please ensure proper account management and handling!*
 
-## Login System
+<h2>Credits<sub><h6>Special thanks to the following fellows for making this modified project possible:</h6></sub></h2>
 
-If you want to login with an email password, go to Nayan/configs/Nayan.json and set your email password ``email``, ``password`` value
-
-If You Use fbstate go to ``Shuvo.json`` and past fbstate
-
-if you run use ``email`` and ``password``, use Nayan.json(``saveState:false``); otherwise, use Nayan.json(``saveState:true``)
-
-## HOW TO GET 'Shuvo.JSON' DATA?
-
-to get ``Shuvo.json`` data, please follow these steps :</br>
-
-step 1 : download fbstate exporter [here](https://drive.google.com/uc?id=1SFsFP_VhMyPg6JpqJtpqnjAr2kiKD7tl)</br>
-
-step 2 : download ``kiwi browser`` from the play store.</br>
-
-step 3 : open kiwi browser and tap on the three dots at the top right corner.</br>
-
-step 4 : select ``extensions`` from the menu.</br>
-
-step 5 : tap on ``+ from (.zip/ .crx/ .user.js)`` and choose the file "fbstate_exporter-1.0.xpi (1).zip" that you downloaded.</br>
-
-step 6 : once the extension is added, go to ``www.facebook.com`` and log in to the account you want to use as a bot.</br>
-
-step 7 : after logging in, tap on the three dots again and scroll down to find the fbstate exporter.</br>
-
-step 8 : click on it and then click on ``copy fbstate``.</br>
-
-step 9 : paste the copied data into the ``Shuvo.json`` file.</br>
-
-step 10 : finally, click on ``run`` to initiate the bot.</br>
-
-
+> - 🔴SpermLord
+> - 🟡CatalizCS
+> - 🟢D-Jukie
+> - 🟠NTKhang03
+> - 🟣KhangGia1810
+> <h6>Updated on: October 16, 2023<br>Creation Date: June 11, 2023</h6>
