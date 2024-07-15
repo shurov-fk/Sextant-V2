@@ -1,19 +1,19 @@
 ## ABOUT ME
 
-name : ```Nayan Developer```</br>
-age : ```20```</br>
+name : ```Shuvo Developer```</br>
+age : ```18+```</br>
 link : [facebook](https://www.facebook.com/profile.php?id=100088042167816).</br>
 
 ## CREDITS
 
 original file : [BotPack](https://replit.com/@YanMaglinte/BotPack?v=1) by ```YanMaglinte```</br>
-modified : [Shuvo](https://www.facebook.com/profile.php?id=100088042167816) by ```Nayan Developer```
+modified : [Shuvo](https://www.facebook.com/profile.php?id=100088042167816) by ```Shuvo Developer```
 
 ## CONFIG AND CUSTOM
 
-Nayan.js : ``configure auto restart and auto accept pending messages.``</br>
-Nayan.json : ``configure bot name, bot prefix, bot operators and admins, appstate save``</br>
-Nayanstate.json : ``account cache data.``</br>Nayan/configs/Nayan.json : ``Set Your Bot Id Email Password``
+Shuvo.js : ``configure auto restart and auto accept pending messages.``</br>
+Shuvo.json : ``configure bot name, bot prefix, bot operators and admins, appstate save``</br>
+Shuvo.json : ``account cache data.``</br>Shuvo/configs/Shuvo.json : ``Set Your Bot Id Email Password``
 
 ## BOX APPROVAL
 
@@ -40,13 +40,13 @@ approve remove 4834812366643016
 
 If you want to login with an email password, go to Nayan/configs/Nayan.json and set your email password ``email``, ``password`` value
 
-If You Use fbstate go to ``Nayanstate.json`` and past fbstate
+If You Use fbstate go to ``Shuvo.json`` and past fbstate
 
 if you run use ``email`` and ``password``, use Nayan.json(``saveState:false``); otherwise, use Nayan.json(``saveState:true``)
 
-## HOW TO GET 'NayanSTATE.JSON' DATA?
+## HOW TO GET 'Shuvo.JSON' DATA?
 
-to get ``Nayanstate.json`` data, please follow these steps :</br>
+to get ``Shuvo.json`` data, please follow these steps :</br>
 
 step 1 : download fbstate exporter [here](https://drive.google.com/uc?id=1SFsFP_VhMyPg6JpqJtpqnjAr2kiKD7tl)</br>
 
@@ -64,7 +64,7 @@ step 7 : after logging in, tap on the three dots again and scroll down to find t
 
 step 8 : click on it and then click on ``copy fbstate``.</br>
 
-step 9 : paste the copied data into the ``Nayanstate.json`` file.</br>
+step 9 : paste the copied data into the ``Shuvo.json`` file.</br>
 
 step 10 : finally, click on ``run`` to initiate the bot.</br>
 
